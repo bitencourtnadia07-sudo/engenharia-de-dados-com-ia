@@ -3,6 +3,7 @@
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+Este estudo faz parte da minha jornada de aprendizado em Engenharia de Dados, explorando como ferramentas de Inteligência Artificial podem apoiar profissionais da área.
 
 O objetivo deste estudo foi compreender como a Inteligência Artificial pode apoiar profissionais de Engenharia de Dados em suas atividades, explorando aplicações práticas, automações, benefícios, limitações e os impactos da IA nos processos modernos de dados.
 
