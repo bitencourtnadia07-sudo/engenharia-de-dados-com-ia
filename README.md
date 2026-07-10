@@ -473,3 +473,78 @@ O profissional passa a dedicar mais tempo a:
 - Tomada de decisões.
 
 A combinação entre conhecimento técnico e capacidade de utilizar ferramentas de IA será uma competência cada vez mais importante no mercado.
+
+
+# 📚 Glossário de Engenharia de Dados
+
+## Conceitos fundamentais
+
+| Conceito | Definição |
+|---|---|
+| **Engenharia de Dados** | Disciplina responsável por projetar, construir e manter sistemas de infraestrutura que coletam, transportam, transformam e armazenam dados de forma confiável, escalável e acessível. |
+| **Pipeline de Dados** | Estrutura que automatiza o fluxo de informações, realizando a coleta, transformação e entrega de dados para análises, aplicações ou sistemas de Inteligência Artificial. |
+| **ETL (Extract, Transform, Load)** | Processo tradicional de integração de dados onde as informações são extraídas das fontes, transformadas e posteriormente carregadas no destino final. |
+| **ELT (Extract, Load, Transform)** | Abordagem moderna onde os dados são carregados primeiro no destino e transformados posteriormente, aproveitando o processamento de plataformas modernas de dados. |
+| **Data Warehouse** | Sistema centralizado e organizado para armazenamento de dados estruturados, desenvolvido para análises e suporte à tomada de decisão. |
+| **Data Lake** | Repositório capaz de armazenar grandes volumes de dados em seu formato original, incluindo dados estruturados, semiestruturados e não estruturados. |
+| **Lakehouse** | Arquitetura moderna que combina a flexibilidade e escalabilidade dos Data Lakes com a organização e governança dos Data Warehouses. |
+
+---
+
+## Qualidade, monitoramento e governança
+
+| Conceito | Definição |
+|---|---|
+| **Data Quality (Qualidade de Dados)** | Avaliação da capacidade dos dados atenderem ao uso esperado, considerando características como precisão, completude, consistência, validade e atualização. |
+| **Data Observability (Observabilidade de Dados)** | Capacidade de monitorar continuamente a saúde dos dados, pipelines e infraestrutura, identificando problemas e comportamentos inesperados. |
+| **Data Lineage (Linhagem de Dados)** | Registro da origem dos dados e acompanhamento de todas as transformações realizadas durante seu ciclo de processamento. |
+| **Governança de Dados** | Conjunto de políticas, processos e controles utilizados para garantir segurança, privacidade, qualidade e utilização adequada dos dados. |
+
+---
+
+## Inteligência Artificial aplicada aos dados
+
+| Conceito | Definição |
+|---|---|
+| **Embeddings** | Representações numéricas de informações, como textos e imagens, que permitem que modelos de Inteligência Artificial compreendam relações semânticas entre dados. |
+| **Bancos de Dados Vetoriais** | Sistemas especializados em armazenar e consultar embeddings, permitindo buscas por similaridade e aplicações de IA Generativa. |
+| **RAG (Retrieval Augmented Generation)** | Técnica que permite que modelos de linguagem consultem informações externas antes de gerar respostas, aumentando a precisão e o contexto das respostas. |
+| **Feature Store** | Repositório centralizado para armazenar, organizar e versionar variáveis utilizadas em modelos de Machine Learning. |
+| **Dados Sintéticos** | Dados gerados artificialmente que preservam características estatísticas dos dados reais, permitindo testes e desenvolvimento sem expor informações sensíveis. |
+
+---
+
+## Monitoramento e evolução dos dados
+
+| Conceito | Definição |
+|---|---|
+| **Data Drift** | Alteração nas características estatísticas dos dados ao longo do tempo, podendo afetar o desempenho de modelos de Machine Learning e Inteligência Artificial. |
+| **Schema Drift** | Mudanças inesperadas na estrutura dos dados, como alteração, inclusão ou remoção de campos, podendo causar falhas nos pipelines. |
+| **Orquestração de Dados** | Coordenação automatizada das etapas de um pipeline, garantindo que tarefas sejam executadas na ordem correta e dentro dos requisitos definidos. |
+| **Data Mesh** | Estratégia de arquitetura de dados que distribui responsabilidades por domínios de negócio, tratando dados como produtos gerenciados pelas próprias equipes. |
+
+---
+
+# 🔎 Relação entre os conceitos
+
+A Engenharia de Dados moderna depende da integração entre infraestrutura, qualidade, governança e Inteligência Artificial.
+
+Um fluxo simplificado pode ser representado da seguinte forma:
+
+```
+Fontes de Dados
+        ↓
+Ingestão e Pipeline de Dados
+        ↓
+ETL / ELT
+        ↓
+Data Lake / Data Warehouse / Lakehouse
+        ↓
+Qualidade e Governança
+        ↓
+Machine Learning e IA Generativa
+        ↓
+Aplicações Inteligentes
+```
+
+Com a evolução da Inteligência Artificial, o papel do Engenheiro de Dados também evolui, tornando-se cada vez mais importante garantir que os dados sejam confiáveis, organizados, seguros e preparados para aplicações inteligentes.
