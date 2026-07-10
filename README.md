@@ -548,3 +548,6 @@ Aplicações Inteligentes
 ```
 
 Com a evolução da Inteligência Artificial, o papel do Engenheiro de Dados também evolui, tornando-se cada vez mais importante garantir que os dados sejam confiáveis, organizados, seguros e preparados para aplicações inteligentes.
+
+
+
